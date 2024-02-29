@@ -15,7 +15,7 @@ export default function Home() {
                     <div className='h-[90%] w-[65%] text-white flex justify-center flex-col'>
                         <p className='text-[1.5em]'>So, you want to travel to</p>
                         <div className='flex flex-col gap-4'>
-                            <h1 className='text-[10em] ps-1'>Space</h1>
+                            <h1 className='text-[10em] ps-1 mt-[-20px]'>Space</h1>
                             <p className='text-[0.8em]'>
                                 Let's face it; if you want to go to space, you might as well <br />
                                 genuinely go to outer space and not hover kind of on the <br /> 
@@ -26,9 +26,9 @@ export default function Home() {
                     </div>
                 </div>
                 <div className="h-[100%] w-[50%] flex justify-center items-center">
-                    <div className="h-[200px] w-[200px] text-black text-2xl bg-white rounded-full flex justify-center items-center">
+                    <Link to={"/destination/0"} className="h-[200px] w-[200px] text-black text-2xl bg-white rounded-full flex justify-center items-center">
                     EXPLORE
-                    </div>
+                    </Link>
                 </div>
             </div>
         </div>
