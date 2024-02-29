@@ -14,16 +14,16 @@ export default function Navbar() {
                 <div className='h-[1.5px] w-[22em] bg-white'></div>
                 <div className='h-[100px] w-[60em] flex items-center justify-center gap-20 bg-gray-200 bg-opacity-5 backdrop-blur-sm text-white'>
                     <div>
-                        <Link to={"./"}>00 HOME</Link>
+                        <Link to={"/"}>00 HOME</Link>
                     </div>
                     <div>
-                        <Link to={"./destination"}>01 DESTINATION</Link>
+                        <Link to={"/destination"}>01 DESTINATION</Link>
                     </div>
                     <div>
-                        <p>02 CREW</p>
+                        <Link to={"/crew"}>02 CREW</Link>
                     </div>
                     <div>
-                        <p>03 TECHNOLOGY</p>
+                        <Link to={"/technology"}>03 TECHNOLOGY</Link>
                     </div>
                 </div>
             </div>

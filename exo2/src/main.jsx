@@ -7,6 +7,8 @@ import {
 import "./index.css";
 import Home from "./components/Home";
 import Destination from "./components/Destination";
+import Crew from "./components/Crew";
+import Technology from "./components/Technology";
 
 const router = createBrowserRouter([
   {
@@ -17,6 +19,14 @@ const router = createBrowserRouter([
   {
     path: "/destination",
     element: <Destination />,
+  },
+  {
+    path: "/crew",
+    element: <Crew />,
+  },
+  {
+    path: "/technology",
+    element: <Technology />,
   },
 ]);
 
