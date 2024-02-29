@@ -17,7 +17,7 @@ export default function Navbar() {
                         <Link to={"/"}>00 HOME</Link>
                     </div>
                     <div>
-                        <Link to={"/destination"}>01 DESTINATION</Link>
+                        <Link to={"/destination/0"}>01 DESTINATION</Link>
                     </div>
                     <div>
                         <Link to={"/crew"}>02 CREW</Link>
