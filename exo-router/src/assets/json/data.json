@@ -1,0 +1,87 @@
+[
+    {
+        "name" : "MUSC ADDICT",
+        "price" : 28,
+        "stock" : 3,
+        "quantity": 0,
+        "image" : "addict.webp"
+    },
+    {
+        "name" : "MUSC HALIMA",
+        "price" : 28,
+        "stock" : 4,
+        "quantity": 0,
+        "image" : "halima.webp"
+    },
+    {
+        "name" : "MUSC IMRAN",
+        "price" : 28,
+        "stock" : 5,
+        "quantity": 0,
+        "image" : "imran.png"
+    },
+    {
+        "name" : "MUSC ANASS",
+        "price" : 28,
+        "stock" : 5,
+        "quantity": 0,
+        "image" : "anas.png"
+    },
+    {
+        "name" : "MUSC BELLA",
+        "price" : 28,
+        "stock" : 8,
+        "quantity": 0,
+        "image" : "bella.jpg"
+    },
+    {
+        "name" : "MUSC LOVE",
+        "price" : 28,
+        "stock" : 7,
+        "quantity": 0,
+        "image" : "love.png"
+    },
+    {
+        "name" : "MUSC MAKKAH",
+        "price" : 28,
+        "stock" : 5,
+        "quantity": 0,
+        "image" : "makkah.webp"
+    },
+    {
+        "name" : "MUSC ROYAL GOLD",
+        "price" : 28,
+        "stock" : 8,
+        "quantity": 0,
+        "image" : "royalGold.webp"
+    },
+    {
+        "name" : "MUSC SAUVAGE",
+        "price" : 28,
+        "stock" : 3,
+        "quantity": 0,
+        "image" : "sauvage.webp"
+    },
+    {
+        "name" : "MUSC VELVET",
+        "price" : 28,
+        "stock" : 5,
+        "quantity": 0,
+        "image" : "velvet.png"
+    },
+    {
+        "name" : "MUSC BLANC",
+        "price" : 28,
+        "stock" : 9,
+        "quantity": 0,
+        "image" : "blanc.png"
+    },
+
+    {
+        "name" : "MUSC NIGHT",
+        "price" : 28,
+        "stock" : 4,
+        "quantity": 0,
+        "image" : "night.webp"
+    }
+]

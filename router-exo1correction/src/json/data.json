@@ -1,0 +1,102 @@
+[
+    {
+        "nom": "Smartphone XYZ",
+        "description": "Un smartphone haut de gamme avec un écran de 6.5 pouces.",
+        "prix": 799.99,
+        "categorie": "Electronique",
+        "quantite_en_stock": 150,
+        "couleur": "Noir",
+        "poids": "175g",
+        "dimensions": "162.3 x 74.8 x 8.6 mm"
+    },
+    {
+        "nom": "Casque Bluetooth ABC",
+        "description": "Casque sans fil avec réduction de bruit active.",
+        "prix": 199.99,
+        "categorie": "Accessoires",
+        "quantite_en_stock": 200,
+        "couleur": "Bleu",
+        "poids": "250g",
+        "dimensions": "190 x 180 x 80 mm"
+    },
+    {
+        "nom": "Montre connectée LMN",
+        "description": "Montre intelligente avec suivi d'activité et notifications.",
+        "prix": 249.99,
+        "categorie": "Wearables",
+        "quantite_en_stock": 100,
+        "couleur": "Argent",
+        "poids": "50g",
+        "dimensions": "46 x 42 x 11 mm"
+    },
+    {
+        "nom": "Tablette DEF",
+        "description": "Tablette 10 pouces idéale pour le divertissement et le travail.",
+        "prix": 329.99,
+        "categorie": "Electronique",
+        "quantite_en_stock": 75,
+        "couleur": "Gris",
+        "poids": "450g",
+        "dimensions": "247 x 156 x 7.5 mm"
+    },
+    {
+        "nom": "Enceinte portable GHI",
+        "description": "Enceinte portable étanche avec un son de haute qualité.",
+        "prix": 119.99,
+        "categorie": "Audio",
+        "quantite_en_stock": 250,
+        "couleur": "Rouge",
+        "poids": "540g",
+        "dimensions": "100 x 100 x 200 mm"
+    },
+    {
+        "nom": "Clavier mécanique JKL",
+        "description": "Clavier mécanique rétroéclairé pour les gamers.",
+        "prix": 89.99,
+        "categorie": "Informatique",
+        "quantite_en_stock": 150,
+        "couleur": "Noir",
+        "poids": "800g",
+        "dimensions": "440 x 130 x 40 mm"
+    },
+    {
+        "nom": "Souris sans fil OPQ",
+        "description": "Souris sans fil ergonomique avec 7 boutons programmables.",
+        "prix": 59.99,
+        "categorie": "Accessoires",
+        "quantite_en_stock": 180,
+        "couleur": "Blanc",
+        "poids": "85g",
+        "dimensions": "120 x 75 x 40 mm"
+    },
+    {
+        "nom": "Lampe de bureau RST",
+        "description": "Lampe de bureau LED avec luminosité réglable.",
+        "prix": 49.99,
+        "categorie": "Maison",
+        "quantite_en_stock": 90,
+        "couleur": "Noir",
+        "poids": "300g",
+        "dimensions": "150 x 150 x 350 mm"
+    },
+    {
+        "nom": "Sac à dos UVW",
+        "description": "Sac à dos résistant à l'eau avec plusieurs compartiments.",
+        "prix": 69.99,
+        "categorie": "Voyage",
+        "quantite_en_stock": 200,
+        "couleur": "Vert",
+        "poids": "500g",
+        "dimensions": "300 x 200 x 450 mm"
+    },
+    {
+        "nom": "Caméra de surveillance XYZ",
+        "description": "Caméra de sécurité HD avec vision nocturne et détection de mouvement.",
+        "prix": 159.99,
+        "categorie": "Sécurité",
+        "quantite_en_stock": 50,
+        "couleur": "Blanc",
+        "poids": "400g",
+        "dimensions": "110 x 90 x 85 mm"
+    }
+]
